@@ -18,6 +18,8 @@ A tech-savvy engineer specializing in building high-quality software. I bridge t
 
 ### ⚙️ Backend & Databases
 <p align="left">
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
   <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white" alt=".NET" />
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
@@ -32,13 +34,18 @@ A tech-savvy engineer specializing in building high-quality software. I bridge t
   <img src="https://img.shields.io/badge/Software_Testing-61DAFB?style=for-the-badge&logo=googlechrome&logoColor=black" alt="Testing" />
 </p>
 
+### 🎨 Design & UI/UX
+<p align="left">
+  <img src="https://img.shields.io/badge/UI/UX%20Design-FF61F6?style=for-the-badge&logo=designer&logoColor=white" alt="UI/UX" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+</p>
+
 ### 🧰 Tools & IDEs
 <p align="left">
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </p>
-
 ---
 
 ## 🚀 About Me
