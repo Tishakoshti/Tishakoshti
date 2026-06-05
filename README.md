@@ -1,19 +1,20 @@
 # Hi 👋, I'm Tishakoshti
 
-### Software Engineer | Flutter Developer & QA Automation Engineer 🚀
+### Software Development Engineer in Test (SDET) | Quality Engineer 🚀
 
-A versatile engineer bridging the gap between **Software Development** and **Quality Assurance**. I build high-performance mobile/web applications and write robust automation frameworks to ensure flawless user experiences.
+A tech-savvy engineer specializing in building high-quality software. I bridge the gap between **Development** and **Quality Assurance** by leveraging my skills in cross-platform mobile development, backend technologies, and automation testing.
 
 ---
 
 ## 🛠️ Tech Stack & Skills
 
-### 📱 Development
+### 💻 Development & Backend
 <p align="left">
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white" alt=".NET" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
 </p>
 
 ### 🧪 QA & Automation
@@ -22,21 +23,14 @@ A versatile engineer bridging the gap between **Software Development** and **Qua
   <img src="https://img.shields.io/badge/Software_Testing-61DAFB?style=for-the-badge&logo=googlechrome&logoColor=black" alt="Testing" />
 </p>
 
-### ⚙️ Languages & Tools
-<p align="left">
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
-</p>
-
 ---
 
 ## 🚀 About Me
 
-- 📱 **Mobile Dev:** Passionate about building modern, clean UI, and scalable mobile apps using Flutter & Dart.
-- ⚡ **QA Automation:** Exploring automation testing frameworks using TypeScript to write bulletproof test scripts.
-- 🎯 **My Approach:** Writing clean code that is easy to test, and writing test cases that are impossible to break.
-- 💻 **Versatility:** Comfortable switching between building features and hunting bugs.
+- 📱 **Mobile & Web:** Experience in building responsive applications using Flutter, Dart, HTML, and CSS.
+- ⚙️ **Backend Understanding:** Knowledge of C#, .NET, and Firebase to understand application logic and API architectures.
+- ⚡ **Quality Mindset:** Proficient in TypeScript and Software Testing concepts to ensure bug-free, scalable deployments.
+- 🎯 **What I Do:** I don't just find bugs; I understand the code behind them and write automated scripts to prevent them.
 - 🇮🇳 **Based in:** India.
 
 ---
