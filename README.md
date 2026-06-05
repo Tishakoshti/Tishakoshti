@@ -70,5 +70,5 @@ A tech-savvy engineer specializing in building high-quality software. I bridge t
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tishakoshti&theme=radical" alt="Tishakoshti's GitHub Streak" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tishakoshti&theme=radical" alt="Tishakoshti's GitHub Stats" />
 </p>
