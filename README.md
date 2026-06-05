@@ -6,24 +6,6 @@ A tech-savvy engineer specializing in building high-quality software. I bridge t
 
 ---
 
-## 🚀 About Me
-
-- 📱 **Mobile & Web:** Experience in building responsive applications using Flutter, Dart, HTML, and CSS.
-- ⚙️ **Backend Understanding:** Knowledge of C#, .NET, and Firebase to understand application logic and API architectures.
-- ⚡ **Quality Mindset:** Proficient in TypeScript and Software Testing concepts to ensure bug-free, scalable deployments.
-- 🎯 **What I Do:** I don't just find bugs; I understand the code behind them and write automated scripts to prevent them.
-- 🇮🇳 **Based in:** India.
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tishakoshti&show_icons=true&theme=radical" alt="Tishakoshti's GitHub Stats" />
-</p>
-
----
-
 ## 🛠️ Tech Stack & Tools
 
 ### 📱 Frontend & Mobile Development
@@ -55,4 +37,38 @@ A tech-savvy engineer specializing in building high-quality software. I bridge t
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</p>
+
+---
+
+## 🚀 About Me
+
+- 📱 **Mobile & Web:** Experience in building responsive applications using Flutter, Dart, HTML, and CSS.
+- ⚙️ **Backend Understanding:** Knowledge of C#, .NET, Firebase, and databases to understand application logic and API architectures.
+- ⚡ **Quality Mindset:** Proficient in TypeScript, Postman, and Software Testing concepts to ensure bug-free, scalable deployments.
+- 🎯 **What I Do:** I don't just find bugs; I understand the code behind them and write automated scripts to prevent them.
+- 🇮🇳 **Based in:** India.
+
+---
+
+## 🤝 Connect With Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/tisha-koshti-860b502a8/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:tishapk0225@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://www.instagram.com/tishu25_?igsh=MWpxbWlxZGN1aDZ6aA==" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Tishakoshti&show_icons=true&theme=radical" alt="Tishakoshti's GitHub Stats" />
 </p>
