@@ -2,7 +2,7 @@
 
 ### Software Development Engineer in Test (SDET) | Quality Engineer 🚀
 
-A tech-savvy engineer specializing in building high-quality software. I bridge the gap between **Development** and **Quality Assurance** by leveraging my skills in cross-platform mobile development, backend technologies, and automation testing.
+An Integrated MCA student with hands-on experience building cross-platform mobile applications using Flutter & Dart. Proficient in integrating backend solutions and dedicated to delivering clean, bug-free software through automated testing and strong QA practices.
 
 ---
 
