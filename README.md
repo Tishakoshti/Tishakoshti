@@ -1,6 +1,6 @@
 # Hi 👋, I'm Tisha Koshti
 
-### Software Development Engineer in Test (SDET) | Quality Engineer 🚀
+### Flutter Developer | Software Development Engineer in Test (SDET) | Quality Engineer
 
 An Integrated MCA student with hands-on experience building cross-platform mobile applications using Flutter & Dart. Proficient in integrating backend solutions and dedicated to delivering clean, bug-free software through automated testing and strong QA practices.
 
